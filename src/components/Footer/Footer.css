@@ -1,0 +1,34 @@
+.footer-back {
+    margin-top: 1rem;
+    background-color: rgba(3, 3, 83, 0.918);
+}
+
+.footer-policy {
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3.2rem;
+    padding-right: 2rem;
+}
+
+.footer-details {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 1.5rem;
+}
+
+div>a {
+    color: rgba(255, 255, 255, 0.822);
+}
+
+.underline {
+    color: rgb(7, 7, 139);
+    text-align: center;
+    font-weight: bold;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.822);
+    padding: 1rem;
+    padding-left: 3.3rem;
+}

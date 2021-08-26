@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h4,
+h6 {
+    margin-bottom: .25rem;
+    padding: .25rem;
+}
+
+.product {
+    border: 1px solid rgb(196, 194, 194);
+    display: flex;
+    justify-content: space-between;
+    max-width: auto;
+    margin: .25rem;
+}
+
+image {
+    width: 500px;
+    height: 100px;
+}
+
+.data {
+    margin: .5em;
+    padding: .2em;
+}
+
+.ori {
+    text-decoration: line-through;
+    color: grey;
+    font-weight: 600;
+}
+
+.base {
+    color: rgb(20, 93, 177);
+    font-weight: 900;
+}
+
+.details {
+    font-size: 1rem;
+    width: 6em;
+    padding: .5em;
+    margin: .25em;
+    background-color: rgb(230, 36, 36);
+    color: white;
+    border-radius: .35em;
+    border: none;
+    cursor: pointer;
+}

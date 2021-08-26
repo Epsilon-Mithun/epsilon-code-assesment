@@ -1,0 +1,19 @@
+.nav_back {
+    background-color: rgba(3, 3, 83, 0.918);
+    display: flex;
+    justify-content: space-around;
+}
+
+.search_icon {
+    color: rgba(255, 255, 255, 0.822);
+}
+
+.logout_icon {
+    color: rgba(255, 255, 255, 0.822);
+}
+
+.nav-bar {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: rgba(5, 5, 77, 0.699);
+}

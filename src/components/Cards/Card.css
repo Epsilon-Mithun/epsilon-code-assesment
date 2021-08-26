@@ -1,0 +1,14 @@
+.filter {
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+.dropdown {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    box-shadow: 2px;
+}
