@@ -17,3 +17,7 @@
     margin-left: 1rem;
     color: rgba(5, 5, 77, 0.699);
 }
+
+.nav_back {
+    max-width: auto;
+}
